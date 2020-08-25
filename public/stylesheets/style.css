@@ -223,10 +223,7 @@ button {
 .comment {
     padding: 1%;
     margin-bottom: 1%;
-}
-
-.comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: #EDF5E1;
 }
 
 .comment .meta {
