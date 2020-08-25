@@ -9,7 +9,7 @@ const helpers = require('./utils/helpers');
 const hbs = exphbs.create({ helpers });
 
 const sess = {
-    secret: process.env.SECRET,
+    secret: '1234',
     cookie: {},
     resave: false,
     saveUninitialized: true,
