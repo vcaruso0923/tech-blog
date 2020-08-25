@@ -4,7 +4,7 @@
         <form class="edit-post-form">
             <div class="flex-wrap">
                 <input class="post-input-margin" name="post-title" type="text" value="{{post.title}}" />
-                <textarea name="post-text" type="text" value="{{post.text}}"></textarea>
+                <textarea name="post-text" type="text">{{post.post_text}}</textarea>
             </div>
             <div class="flex-wrap">
                 {{post.vote_count}} {{format_plural "point" post.vote_count}}
