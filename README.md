@@ -37,7 +37,7 @@ N/A
 
 ## Screenshot
 
-![Daily Planner](./images/demo.PNG)
+![Tech Blog](./images/demo.PNG)
 
 ## Questions
 
